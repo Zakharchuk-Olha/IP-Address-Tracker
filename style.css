@@ -149,6 +149,9 @@ body {
   }
 }
 @media (max-width: 500px) {
+  .header__title {
+    padding: 7px 0;
+  }
   .data {
     display: block;
     width: 90vw;
